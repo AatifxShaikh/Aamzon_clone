@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aamzon_clone/static/css/main.d3647a9b.css",
+    "main.js": "/Aamzon_clone/static/js/main.cf845dc7.js",
+    "index.html": "/Aamzon_clone/index.html",
+    "main.d3647a9b.css.map": "/Aamzon_clone/static/css/main.d3647a9b.css.map",
+    "main.cf845dc7.js.map": "/Aamzon_clone/static/js/main.cf845dc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3647a9b.css",
+    "static/js/main.cf845dc7.js"
+  ]
+}
